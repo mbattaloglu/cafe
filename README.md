@@ -1,5 +1,5 @@
-# Cafe
+## Cafe
   Command-Line Interface Cafe Application
   
-# Functionalities
+## Functionalities
   The application has only six types of bevereage. It can be increased.
